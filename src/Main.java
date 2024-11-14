@@ -56,6 +56,7 @@ public class Main {
         return(n1-n2);
     }
     public static float biderketa(float n1, float n2) {
+        return(n1*n2);
     }
     public static float zatiketa(float n1, float n2) {
     }
