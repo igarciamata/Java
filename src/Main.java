@@ -3,7 +3,7 @@
 public class Main {
 
     public static void main(String[] args) {
-    //Aldaketa GitHub
+    //Aldaketak GitHub-en
         Scanner sc = new Scanner(System.in);
 
         int elmBat = -1;
