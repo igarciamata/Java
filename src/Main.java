@@ -62,19 +62,6 @@ public class Main {
 
                         break;
 
-                    case 4:
-
-                        if (elmHiru == 0) {
-
-                            System.out.println("Ezin da zati 0 egin.");
-
-                        } else {
-
-                            System.out.println("Eragiketaren emaitza " + zatiketa(elmBi, elmHiru) + " da.");
-
-                        }
-
-                        break;
                     case 5:
                         errokarratua();
                         break;
